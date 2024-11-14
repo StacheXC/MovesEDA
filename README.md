@@ -1,1 +1,3 @@
 # MovesEDA
+
+Contained within this repository is the full moves data set that was scraped from PokeAPI. In my blog post, I only used a few of these variables. In the jupyter notebook, I walkthrough how I obtained this data set in the first place, along with the code I used to generate each of the tables and plots. Feel free to follow along and create your own plots based off other variables you think may be related.
